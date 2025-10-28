@@ -1,0 +1,5 @@
+{
+  "name": "Bathroom Upsell Generator",
+  "description": "An AI-powered tool to automatically generate upsell and related product recommendations for your bathroom product catalog. Upload a spreadsheet of your products, and the app will generate a new spreadsheet with 8 smart recommendations for each item.",
+  "requestFramePermissions": []
+}
